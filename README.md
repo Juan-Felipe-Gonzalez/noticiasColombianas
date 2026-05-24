@@ -30,7 +30,7 @@ Diseño previo a la implementación, creado en Figma como referencia visual.
 ## Cómo ejecutar el proyecto
 
 ```bash
-git clone <url-del-repositorio>
+git clone https://github.com/Juan-Felipe-Gonzalez/noticiasColombianas.git
 cd noticiasColombianas
 npm install
 npm run dev
@@ -74,7 +74,7 @@ Considerando la descripción del rol y mi experiencia previa con CMS, el enfoque
 | Fase | Estimado | Real |
 |---|---|---|
 | Maquetación + UX en Figma | 2 horas | 1 hora |
-| Maquetación + UX en React | 1 hora | 3.5 horas - incluye exploración con WordPress (plugin y tema), arranque del proyecto en React y ajustes de responsive |
+| Maquetación + UX en React | 1 hora | 3.5 horas - Incluye exploración con WordPress (plugin y tema), implementación del proyecto en React y ajustes de responsive |
 | Consumo de API | 1 hora | 1 hora |
 | Simulación CMS | 30 min | 30 min |
 | Documentación | 30 min | 30 min |
